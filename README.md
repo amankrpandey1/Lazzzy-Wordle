@@ -1,7 +1,7 @@
 # Lazzzy Wordle
 > ## Wordle game created using python
 > ### Description :<br>
-> A CLI based wordle game inspired by [New york times wordle game](https://www.nytimes.com/games/wordle/index.html) This game will help you to improve your thinking skills, enhance vocabulary, and analytical skills.
+> A CLI based wordle game inspired by [New York Times Wordle Game](https://www.nytimes.com/games/wordle/index.html) This game will help you to improve your thinking skills, enhance vocabulary, and analytical skills.
 > When it comes to difficulty level CLI based game is better than UI based game though UI based is more interactive. But in CLI based wordle games will make you compelled to use the pen and paper as you will not be able to see the different colors of alphabets and keyboard keys vanishing which are not present in the word.<br><br>
 > In this game you will have to guess a word in six attemps if guessed correctly, you will get the <b>meaning</b>,<b>example</b>,<b>phonetics</b> of that word. If you will not be able to guess the word in the given attemps you will be asked to play again.
 > 
