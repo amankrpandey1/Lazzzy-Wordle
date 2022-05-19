@@ -114,4 +114,4 @@ if __name__=="__main__":
     
     url="https://raw.githubusercontent.com/charlesreid1/five-letter-words/master/sgb-words.txt"
     text_of_the_day = random_text_generator(url)
-    calling_wrapper('spiel')
+    calling_wrapper(text_of_the_day)
